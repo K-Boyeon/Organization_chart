@@ -1,0 +1,5 @@
+body {width: 1200px; margin: 0 auto;}
+.wrap { margin-top: 30px;}
+.wrap h1 {padding-bottom: 30px; color: #333; border-bottom: 1px solid #aaa; font-size: 30px;}
+.wrap .imgWrap {margin-top: 30px; padding: 0 40px; text-align: center;}
+.wrap .imgWrap img {max-width: 100%;}
